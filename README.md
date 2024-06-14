@@ -7,7 +7,6 @@
 
 <p align="center"> 
   <samp>
-    「 I am a frontend developer. 」
     <br>
   </samp>
 </p>
